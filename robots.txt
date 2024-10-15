@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://imuyuaya.github.io/AvD/sitemap_index.txt.gz
+Sitemap: https://imuyuaya.github.io/OFe/sitemap_index.txt.gz
+Sitemap: https://imuyuaya.github.io/Rna/sitemap_index.txt.gz
+Sitemap: https://imuyuaya.github.io/nIe/sitemap_index.txt.gz
+Sitemap: https://imuyuaya.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://imuyuaya.github.io/xKj/sitemap_index.txt.gz
